@@ -1,8 +1,7 @@
 #!/usr/bin/env python
 
 def main():
-    print "hello world "
-    
+    print "hello world "    
     print 'program ended successfully'
 
 
