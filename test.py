@@ -1,3 +1,10 @@
 #!/usr/bin/env python
 
-print "hello world "
+def main():
+    print "hello world "
+    
+    print 'program ended successfully'
+
+
+if __name__ == '__main__':
+    main()
